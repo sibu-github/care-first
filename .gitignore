@@ -1,0 +1,4 @@
+node_modules
+lint-errors.log
+.vscode
+.DS_Store
