@@ -20,4 +20,4 @@ mv /Users/sibaprasad/neutrinos-studio/health-app/app/dist ./
 echo "commiting to git"
 git add --all
 git commit -m "deploying angular build"
-git push origin master
+# git push origin master
